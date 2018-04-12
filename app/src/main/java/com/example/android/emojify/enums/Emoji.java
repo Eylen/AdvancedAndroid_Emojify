@@ -1,0 +1,5 @@
+package com.example.android.emojify.enums;
+
+public enum Emoji {
+    SMILING, FROWNING, LEFT_WINK, RIGHT_WINK, LEFT_WINK_FROWNING, RIGHT_WINK_FROWNING, CLOSED_EYES_SMILING, CLOSED_EYES_FROWNING
+}
